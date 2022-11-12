@@ -21,5 +21,21 @@ public class Student {
 
     
 
+    public String getName()
+    {
+        return this.name;
+    }
+    public String getState()
+    {
+        return this.state;
+    }
+    public String getRace()
+    {
+        return this.race;
+    }
+    public double getGpa()
+    {
+        return this.gpa;
+    }
 
 }
