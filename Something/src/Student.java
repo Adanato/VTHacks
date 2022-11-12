@@ -9,6 +9,21 @@ public class Student {
 
     private d
 
-
+    public String returnName()
+    {
+        return this.name;
+    }
+    public String state()
+    {
+        return this.state;
+    }
+    public String race()
+    {
+        return this.race;
+    }
+    public double gpa()
+    {
+        return this.gpa;
+    }
 
 }
