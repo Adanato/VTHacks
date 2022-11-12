@@ -8,7 +8,6 @@ public class Student {
     private double gpa;
 
 
-<<<<<<< HEAD
     public Student(String n, String s, String r, double g)
     {
 
@@ -22,8 +21,6 @@ public class Student {
 
     
 
-=======
->>>>>>> 12a95ee0de4606326edf9541a1d9743f04028e60
     public String getName()
     {
         return this.name;
