@@ -37,6 +37,10 @@ public class Database {
     {
         return this.database;
     }
+    public void add(Student newStudent)
+    {
+        this.database.add(newStudent);
+    }
 
 
 }
