@@ -9,19 +9,19 @@ public class Student {
 
     private d
 
-    public String returnName()
+    public String getName()
     {
         return this.name;
     }
-    public String state()
+    public String getState()
     {
         return this.state;
     }
-    public String race()
+    public String getRace()
     {
         return this.race;
     }
-    public double gpa()
+    public double getGpa()
     {
         return this.gpa;
     }
