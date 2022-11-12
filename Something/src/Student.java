@@ -7,8 +7,19 @@ public class Student {
 
     private double gpa;
 
-    private d
 
+    public Student(String n, String s, String r, double g)
+    {
+
+        name = n;
+        state = s;
+        race= r;
+        gpa = g;
+
+
+    }
+
+    
 
 
 }
